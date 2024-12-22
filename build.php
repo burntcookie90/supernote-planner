@@ -1,6 +1,6 @@
 <?php
 
-$YEAR = 2024;
+$YEAR = 2025;
 
 function make_regular_year($year): string
 {
