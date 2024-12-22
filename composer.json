@@ -10,7 +10,7 @@
     }
   ],
   "require": {
-    "tecnickcom/tcpdf": "^6.5.0",
-    "jrmajor/fluent": "^0.4.1"
+    "tecnickcom/tcpdf": "6.5.0",
+    "jrmajor/fluent": "0.4.1"
   }
 }
